@@ -1,6 +1,4 @@
 # Image Processing Package
-
-Description. 
 Pacote de processamento de imagens desenvolvido em python
 
 ## Installation
