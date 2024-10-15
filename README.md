@@ -1,27 +1,25 @@
-# package_name
+# Image Processing Package
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+Pacote de processamento de imagens desenvolvido em python
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing-package
 
 ```bash
-pip install package_name
+pip install image-processing-package
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from package_name import filters
+filters.apply_grayscale()
 ```
 
 ## Author
-My_name
+Alexandra Bona Abreu
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
